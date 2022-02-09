@@ -7,7 +7,7 @@
 #' @return A vector of Lower limit of confidence interval, ratio of means, Upper limit of confidence interval
 #' @export
 #' @importFrom stats qt
-#' @references Fieller, E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
+#' @references Fieller E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
 
 #'
 #' @examples

@@ -25,5 +25,5 @@ y <- c(10.17,  6.12,  9.30, 10.79, 10.56,  8.26,  7.90,  8.93, 10.80,  9.06)
 FiellerCI(x, y, 0.05)
 }
 \references{
-Fieller, E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
+Fieller E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
 }
