@@ -2,7 +2,7 @@
 % Please edit documentation in R/compute_ratio.R
 \name{compute_ratio}
 \alias{compute_ratio}
-\title{Title}
+\title{Compute ratio of means}
 \usage{
 compute_ratio(n, d)
 }
@@ -15,7 +15,7 @@ compute_ratio(n, d)
 Ratio of means
 }
 \description{
-Title
+Compute ratio of means
 }
 \examples{
 x <- rnorm(100,50,2)

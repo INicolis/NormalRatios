@@ -1,4 +1,4 @@
-#' Title
+#' Compute ratio of means
 #'
 #' @param n Numerator
 #' @param d Denominator
