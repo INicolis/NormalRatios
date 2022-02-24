@@ -25,5 +25,7 @@ y <- c(10.17,  6.12,  9.30, 10.79, 10.56,  8.26,  7.90,  8.93, 10.80,  9.06)
 FiellerCI(x, y, 0.05)
 }
 \references{
-Fieller E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
+Fieller, E. C. Some Problems in Interval Estimation. Journal of the Royal Statistical Society: Series B (Methodological) 1954, 16 (2), 175–185. https://doi.org/10.1111/j.2517-6161.1954.tb00159.x.
+
+Fieller, E. C. The Distribution of the Index in a Normal Bivariate Population. Biometrika 1932, 24 (3–4), 428–440. https://doi.org/10.1093/biomet/24.3-4.428.
 }

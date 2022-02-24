@@ -7,7 +7,8 @@
 #' @return A vector of Lower limit of confidence interval, ratio of means, Upper limit of confidence interval
 #' @export
 #' @importFrom stats qt
-#' @references Fieller E. C. "Some Problems in Interval Estimation." Journal of the Royal Statistical Society. Series B (Methodological) 16, no. 2 (1954): 175–85. http://www.jstor.org/stable/2984043.
+#' @references Fieller, E. C. Some Problems in Interval Estimation. Journal of the Royal Statistical Society: Series B (Methodological) 1954, 16 (2), 175–185. https://doi.org/10.1111/j.2517-6161.1954.tb00159.x.
+#' @references Fieller, E. C. The Distribution of the Index in a Normal Bivariate Population. Biometrika 1932, 24 (3–4), 428–440. https://doi.org/10.1093/biomet/24.3-4.428.
 
 #'
 #' @examples
