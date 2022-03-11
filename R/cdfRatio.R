@@ -13,6 +13,7 @@
 #'
 #' @examples
 #' cdfRatio(x = 2.3, mu1 = 5, mu2 = 2.5, sigma1 = 1, sigma2 = 0.5, rho = 0.4)
+
 cdfRatio <- function(x,mu1,mu2,sigma1,sigma2,rho){
   b <- mu2/sigma2
   cr <- sqrt(1/(1-rho^2))
