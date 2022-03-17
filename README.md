@@ -39,3 +39,12 @@ FiellerCI(x, y, 0.05)
 #>        LL     ratio        UL 
 #> 0.1818470 0.4744804 0.8559575
 ```
+
+Compute Confidence Interval for a ratio using exact distribution:
+
+``` r
+library(RatiosCI)
+## basic example code
+> nci=NormalRatioCI(mu1 = 5, mu2 = 2.5, sigma1 = 1, sigma2 = 0.5, rho = 0.4, level = 0.95)
+[1] "95 % Confidence Interval = [ 1.259 ; 3.176 ]"
+```

@@ -33,7 +33,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="index.html">RatiosCI</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">0.0.1</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="">0.1</span>
       </span>
     </div>
 
@@ -96,6 +96,11 @@ with:</p>
 <span class="fu"><a href="reference/FiellerCI.html">FiellerCI</a></span><span class="op">(</span><span class="va">x</span>, <span class="va">y</span>, <span class="fl">0.05</span><span class="op">)</span>
 <span class="co">#&gt;        LL     ratio        UL </span>
 <span class="co">#&gt; 0.1818470 0.4744804 0.8559575</span></code></pre></div>
+<p>Compute Confidence Interval for a ratio using exact distribution:</p>
+<div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">library</span>(RatiosCI)</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="do">## basic example code</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="sc">&gt;</span> nci<span class="ot">=</span><span class="fu">NormalRatioCI</span>(<span class="at">mu1 =</span> <span class="dv">5</span>, <span class="at">mu2 =</span> <span class="fl">2.5</span>, <span class="at">sigma1 =</span> <span class="dv">1</span>, <span class="at">sigma2 =</span> <span class="fl">0.5</span>, <span class="at">rho =</span> <span class="fl">0.4</span>, <span class="at">level =</span> <span class="fl">0.95</span>)</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>[<span class="dv">1</span>] <span class="st">"95 % Confidence Interval = [ 1.259 ; 3.176 ]"</span></span></code></pre></div>
 </div>
 </div>
   </div>

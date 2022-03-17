@@ -1,6 +1,6 @@
 Package: RatiosCI
 Title: Confidence Intervals for Ratios
-Version: 0.0.1
+Version: 0.1
 Authors@R: 
     person(given = "Ioannis",
            family = "Nicolis",

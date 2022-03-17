@@ -2,6 +2,7 @@
 
 export("%>%")
 export(FiellerCI)
+export(NormalRatioCI)
 export(cdfRatio)
 export(compute_ratio)
 export(compute_var)
