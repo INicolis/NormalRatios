@@ -10,6 +10,7 @@
 #' @return distribution function at quantile q
 #' @export
 #' @importFrom purrr map_dbl
+#' @importFrom stats uniroot
 #'
 #' @examples
 #' dpfRatio(c(0.025,0.975) , mu1 = 5, mu2 = 2.5, sigma1 = 1, sigma2 = 0.5, rho = 0.4)

@@ -22,12 +22,27 @@
     <loc>/reference/RatiosCI.html</loc>
   </url>
   <url>
+    <loc>/reference/cdfRatio.html</loc>
+  </url>
+  <url>
+    <loc>/reference/cdfRatio1.html</loc>
+  </url>
+  <url>
+    <loc>/reference/cdfRatioN.html</loc>
+  </url>
+  <url>
     <loc>/reference/compute_ratio.html</loc>
   </url>
   <url>
     <loc>/reference/compute_var.html</loc>
   </url>
   <url>
+    <loc>/reference/dpfRatio.html</loc>
+  </url>
+  <url>
     <loc>/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>/reference/pipe.html</loc>
   </url>
 </urlset>
